@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    height: 100vh;
+    background-color: #f7953e;
+}
+.heading{
+    font-family: "PT Serif", serif;
+    margin: 0px;
+    text-align: center;
+    background-color: #f7a65e;
+    margin-bottom: 10px;
+}
+.Heading{
+    font-family: 'Roboto';
+    height: 24px;
+}
+.DataContainer{
+    height: 32px;
+    margin-bottom: 0px;
+    
+}
+.Data{
+    font-size: 18px;
+    margin-right: 8px;
+}
+.Value{
+    font-size: 18px;
+    color: rgb(51, 48, 48);
+}
+
+.fees{
+    font-family: 'Serif';
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 15px;
+    color: rgb(21, 20, 20);
+}
+.profileData{
+    background-color: #f2d2b6;
+    height: 292px;
+    padding: 11px;
+    width: 311px;
+    border-radius: 20px;
+}
+.departmentData{
+    background-color: #f2d2b6;
+    height: 168px;
+    width: 306px;
+    padding-left: 10px;
+    border-radius: 18px;
+}
